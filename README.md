@@ -1,0 +1,1 @@
+# Pedestrian-Detection-using-HOG-Histogram-of-Oriented-Gradients-and-SVM
